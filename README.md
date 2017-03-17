@@ -20,5 +20,5 @@ It is a MAVEN project and runs on TOMCAT 7 or above. Needs jdk 7 and jre to run 
 
 ## API Reference
 
-https://webrtc.org/native-code/native-apis/
+https://webrtc.org/native-code/native-apis/ <br>
 http://doc-kurento.readthedocs.io/en/stable/mastering/kurento_API.html
